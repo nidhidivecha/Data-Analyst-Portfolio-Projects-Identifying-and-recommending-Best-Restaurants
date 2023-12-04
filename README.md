@@ -36,8 +36,11 @@ Identified cities with the maximum and minimum number of restaurants.
 **Factors Affecting Ratings**: Investigated factors influencing ratings, such as the number of cuisines, cost, and delivery options.
 
 
+
 🔹 **Building Dashboard**
 
 The graphical representations enhance the understanding of the data, making it easier to identify trends and patterns.
-This analysis provides valuable insights into the restaurant dataset, offering recommendations based on various factors, aiding in informed decision-making.
+This analysis provides valuable insights into the restaurant dataset in Tableau, offering recommendations based on various factors, aiding in informed decision-making.
+
+![Identifying and recommending best restaurant dashboard](https://github.com/nidhidivecha/Identifying-and-recommending-Best-Restaurants/assets/54711762/b8e57adf-3cda-4e6a-8e46-24c43197762e)
 
