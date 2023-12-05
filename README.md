@@ -42,3 +42,6 @@ Identified cities with the maximum and minimum number of restaurants.
 The graphical representations enhance the understanding of the data, making it easier to identify trends and patterns.
 This analysis provides valuable insights into the restaurant dataset in Tableau, offering recommendations based on various factors, aiding in informed decision-making.
 
+![Recommending Restaurants Dashboard](https://github.com/nidhidivecha/Identifying-and-recommending-Best-Restaurants/assets/54711762/742dfd63-cffe-4f09-83df-08b8a499c28e)
+
+
