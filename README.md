@@ -1,13 +1,14 @@
 # Identifying-and-recommending-Best-Restaurants
 
 
-🔹 **About the Project**
+🔹 **Aim of the Project**
 
-This project aims to identify and recommend the best restaurants through a comprehensive analysis of a given dataset. The analysis covers various aspects such as data inspection, geographical distribution, ratings, restaurant franchises, booking options, online delivery, cuisines, and factors affecting ratings.
+This project aims to help users discover top-rated restaurants based on various criteria such as location, cuisine, average ratings, reviews, votes, and many more leading to various benefits such as cost-savings and increase in revenue, ultimately aiding in improved business decision-making.
+
+🔹 **Domain: Marketing **
 
 
-
-🔹**Key Visualizations:**
+🔹**The flow of the project:**
 
 **Preliminary Inspection:** Conducted preliminary data inspection to understand the structure of the data.
 Identified missing values, duplicates, and cleaned variable names.
@@ -36,10 +37,8 @@ Identified cities with the maximum and minimum number of restaurants.
 **Factors Affecting Ratings**: Investigated factors influencing ratings, such as the number of cuisines, cost, and delivery options.
 
 
-
 🔹 **Building Dashboard**
 
-The graphical representations enhance the understanding of the data, making it easier to identify trends and patterns.
 This analysis provides valuable insights into the restaurant dataset in Tableau, offering recommendations based on various factors, aiding in informed decision-making.
 
 ![Recommending Restaurants Dashboard](https://github.com/nidhidivecha/Identifying-and-recommending-Best-Restaurants/assets/54711762/742dfd63-cffe-4f09-83df-08b8a499c28e)
