@@ -5,7 +5,7 @@
 
 This project aims to help users discover top-rated restaurants based on various criteria such as location, cuisine, average ratings, reviews, votes, and many more leading to various benefits such as cost-savings and increase in revenue, ultimately aiding in improved business decision-making.
 
-🔹 **Domain: Marketing **
+🔹 **Domain: Marketing**
 
 
 🔹**The flow of the project:**
